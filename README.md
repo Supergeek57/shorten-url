@@ -1,0 +1,2 @@
+# url-shortener
+A simple Python URL shortener that I created during my internship with Unit 221b, a cybersecurity company named after Sherlock Holmes. :) You can create a new personal database using your name, and then whenever you access the program it will have saved your previous shortened URLs for you to view. Four functions: Create a short URL from a long URL, insert a short URL to automatically open the original long URL, list all short URLs, and delete a short URL from the database. Hope you enjoy my project!
